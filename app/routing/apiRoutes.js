@@ -14,7 +14,7 @@ module.exports = function(app){
 		var bestMatch = {
 			name: "",
 			picture: "",
-			totalDifference: 1000
+			totalDifference: 10000
 		}
 
 		var newFriendScore = newFriend.score;
